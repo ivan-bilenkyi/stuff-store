@@ -36,8 +36,7 @@ const Header = () => {
               autoComplete="off"
             />
           </div>
-
-          <div className={styles.box}></div>
+          {false && <div className={styles.box}></div>}
         </form>
 
         <div className={styles.account}>
@@ -51,6 +50,7 @@ const Header = () => {
             <svg className={styles['icon-cart']}>
               <use xlinkHref={`${process.env.PUBLIC_URL}/sprite.svg#bag`} />
             </svg>
+            <span className={styles.count}>2</span>
           </Link>
         </div>
       </div>
