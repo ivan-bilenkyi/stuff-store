@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/stuff-store/static/css/main.d38bb544.css",
-    "main.js": "/stuff-store/static/js/main.206dcd64.js",
+    "main.css": "/stuff-store/static/css/main.6a045dd1.css",
+    "main.js": "/stuff-store/static/js/main.706031c8.js",
+    "static/media/computer.png": "/stuff-store/static/media/computer.5e56530d0ea3793fd73d.png",
     "static/media/avatar.jpg": "/stuff-store/static/media/avatar.4bc3b938691acbda7100.jpg",
+    "static/media/devices.png": "/stuff-store/static/media/devices.a0974f63230d0b90cbec.png",
+    "static/media/shoe.png": "/stuff-store/static/media/shoe.db601c8f04844976b606.png",
     "static/media/logo.svg": "/stuff-store/static/media/logo.fb6afde46b43989ab58d298634d1c757.svg",
     "index.html": "/stuff-store/index.html",
-    "main.d38bb544.css.map": "/stuff-store/static/css/main.d38bb544.css.map",
-    "main.206dcd64.js.map": "/stuff-store/static/js/main.206dcd64.js.map"
+    "main.6a045dd1.css.map": "/stuff-store/static/css/main.6a045dd1.css.map",
+    "main.706031c8.js.map": "/stuff-store/static/js/main.706031c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.d38bb544.css",
-    "static/js/main.206dcd64.js"
+    "static/css/main.6a045dd1.css",
+    "static/js/main.706031c8.js"
   ]
 }
