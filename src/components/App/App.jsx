@@ -7,12 +7,14 @@ import Footer from '../Footer/Footer';
 import Sidebar from '../Sidebar/Sidebar';
 
 import { getCategories } from '../../redux/categories/categoreisSlice';
+import { getProducts } from '../../redux/products/productsSlice';
 
 const App = () => {
   const dispatch = useDispatch();
 
   useEffect(() => {
     dispatch(getCategories());
+    dispatch(getProducts());
   }, [dispatch]);
 
   return (
